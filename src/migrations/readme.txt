@@ -1,0 +1,1 @@
+Essa pasta é usada para carregar as informações base para o sistema funcionar

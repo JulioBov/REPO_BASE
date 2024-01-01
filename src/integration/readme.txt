@@ -1,0 +1,1 @@
+Use essa pasta para fazer integrações externas com outras apis

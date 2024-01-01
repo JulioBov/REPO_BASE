@@ -1,0 +1,1 @@
+Use essa pasta para colocar os validadores de payload da aplicação
